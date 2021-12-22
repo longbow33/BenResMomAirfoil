@@ -1,0 +1,1 @@
+This Program is a first try to determine the Bending Resistance Moment aswell as the Moment of Inertia from data from the website "airfoiltools.com"
